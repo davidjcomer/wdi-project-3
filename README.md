@@ -73,11 +73,25 @@ The project's requirements were as follows:
 
 Our team used a Trello board to keep track of tasks, progress and blockers. It was very useful to know what the other person is currently working on.
 
-Screenshot Here
+![Trello board](screenshots/RuffTradeTrello.png)
 
+## Page Structure
 
-### Screenshots
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Game consists of 3 screens.
+1. <strong>Home</strong><br> A simple home screen prompting user to sign up in order to access the site.
+![HomeScreen](Screenshots/RuffTradeHomeScreen.png)
+
+1. <strong>Login</strong><br> A simple login screen prompting user to enter details that feed the User model
+![LoginScreen](Screenshots/RuffTradeLoginScreen.png)
+
+1. <strong>Pet Index</strong><br> A list of thumbnails representing all available animals in the system.<br>
+![Pet Index](Screenshots/RuffTradeMenagerie.png)
+
+1. <strong>Pet Show</strong><br> A profile page for each pet - displaying a map of their location, their owner's details, their ratings and their reviews.<br>
+![Pet Show](Screenshots/RuffTradePetShow.png)
+
+1. <strong>User Show</strong><br> A profile page for the user - displaying their contact derails, a bio and a list of their pets.<br>
+![User Show](Screenshots/RuffTradeUserShow.png)
 
 
 ## Approach
@@ -93,7 +107,7 @@ From there, we used Trello to divide tasks in a way that challenged us in areas 
 
 - Working in a team gave use both a profound appreciation for the importance of prior planning. Having allotted a considerable amount of time to to mapping out the project before we began coding, we still had to make considerble adjustments along the way to arrive at the end product we had in mind when we began.
 
-- Lerning to use Git and Insomnia was a really valuable win for me. In particular, Insomnia was a critical tool for problem-solving and saving time, by allowing us to assess with certainty whether our issues were arising in the front- or back-ends. 
+- Lerning to use Git and Insomnia was a really valuable win for me. In particular, Insomnia was a critical tool for problem-solving and saving time, by allowing us to assess with certainty whether our issues were arising in the front- or back-ends.
 
 
 ## Future Work
